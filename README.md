@@ -98,7 +98,7 @@ Explorando Data Science, Machine Learning e Inteligência Artificial
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="Renan Carneiro">
+      <a href="https://www.linkedin.com/in/renancc" title="Renan Carneiro">
         <img src="https://media.licdn.com/dms/image/v2/D4D03AQGCeXdChV2A3A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1685195351864?e=1760572800&v=beta&t=XbEtNrVmfDg7PSyscMd9BIIfYt_eHGMl0pv2XWkUv_0" width="100px;" alt="Foto do Renan Carneiro no GitHub"/><br>
         <sub>
           <b>Renan Carneiro</b>
